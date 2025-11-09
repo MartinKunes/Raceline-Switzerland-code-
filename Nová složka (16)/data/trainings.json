@@ -1,0 +1,534 @@
+[
+    {
+        "id": 1760471134,
+        "title": "test",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-14 09:00",
+        "end": "2025-10-14 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 60,
+                "rest": null
+            },
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 0,
+                "rest": null
+            },
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 80,
+                "rest": null
+            },
+            {
+                "name": "Shyby",
+                "sets": 3,
+                "reps": 8,
+                "weight": 40,
+                "rest": null
+            }
+        ],
+        "created": "2025-10-14T21:45:34+02:00"
+    },
+    {
+        "id": 1760472996,
+        "title": "as",
+        "type": "Event",
+        "coach": "",
+        "location": "asas",
+        "start": "2025-10-14 09:00",
+        "end": "2025-10-14 10:00",
+        "notes": "as",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 0,
+                "rest": null
+            }
+        ],
+        "created": "2025-10-14T22:16:36+02:00"
+    },
+    {
+        "id": 1760473012,
+        "title": "as",
+        "type": "Event",
+        "coach": "",
+        "location": "as",
+        "start": "2025-10-14 09:00",
+        "end": "2025-10-14 10:00",
+        "notes": "as",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 0,
+                "rest": null
+            }
+        ],
+        "created": "2025-10-14T22:16:52+02:00"
+    },
+    {
+        "id": 1760473055,
+        "title": "A",
+        "type": "Gym",
+        "coach": "a",
+        "location": "a",
+        "start": "2025-10-14 09:00",
+        "end": "2025-10-14 10:00",
+        "notes": "a",
+        "exercises": []
+    },
+    {
+        "id": 1760473191,
+        "title": "gym",
+        "type": "Gym",
+        "coach": "asd",
+        "location": "asd",
+        "start": "2025-10-14 09:00",
+        "end": "2025-10-14 10:00",
+        "notes": "asd",
+        "exercises": []
+    },
+    {
+        "id": 1760473583,
+        "title": "Gym?",
+        "type": "Gym",
+        "coach": "Matin",
+        "location": "asas",
+        "start": "2025-10-14 09:00",
+        "end": "2025-10-14 10:00",
+        "notes": "ss",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 0
+            }
+        ]
+    },
+    {
+        "id": 1760529034,
+        "title": "nnn",
+        "type": "Track",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-15 09:00",
+        "end": "2025-10-15 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 0
+            }
+        ]
+    },
+    {
+        "id": 1760529348,
+        "title": "sdsdsd",
+        "type": "Track",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-15 09:00",
+        "end": "2025-10-15 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "id": 1760533909,
+        "title": "asdf",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-15 09:00",
+        "end": "2025-10-15 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 0
+            }
+        ]
+    },
+    {
+        "id": 1760629124,
+        "title": "kjk",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-16 09:00",
+        "end": "2025-10-16 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "id": 1760630937,
+        "title": "sadas",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-11-16 09:00",
+        "end": "2025-11-16 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 30
+            }
+        ]
+    },
+    {
+        "id": 1760637627,
+        "title": "sas",
+        "type": "Gym",
+        "coach": "sas",
+        "location": "sas",
+        "start": "2025-10-16 09:00",
+        "end": "2025-10-16 10:00",
+        "notes": "sas",
+        "exercises": [
+            {
+                "name": "Sprint 100m",
+                "sets": 3,
+                "reps": 8,
+                "weight": 40
+            },
+            {
+                "name": "Výpady",
+                "sets": 3,
+                "reps": 8,
+                "weight": 50
+            }
+        ]
+    },
+    {
+        "id": 1760650593,
+        "title": "1",
+        "type": "Gym",
+        "coach": "1",
+        "location": "1",
+        "start": "2025-10-16 09:00",
+        "end": "2025-10-16 10:00",
+        "notes": "1",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 10
+            },
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 0
+            },
+            {
+                "name": "Bench press",
+                "sets": 3,
+                "reps": 8,
+                "weight": 10
+            }
+        ]
+    },
+    {
+        "id": 1760650629,
+        "title": "2",
+        "type": "Sprint",
+        "coach": "2",
+        "location": "2",
+        "start": "2025-10-16 09:00",
+        "end": "2025-10-16 10:00",
+        "notes": "2",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 20
+            },
+            {
+                "name": "Strečink",
+                "sets": 3,
+                "reps": 8,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "id": 1760650652,
+        "title": "3",
+        "type": "Gym",
+        "coach": "3",
+        "location": "3",
+        "start": "2025-10-16 09:00",
+        "end": "2025-10-16 10:00",
+        "notes": "3",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "weight": 30
+            },
+            {
+                "name": "Shyby",
+                "sets": 3,
+                "reps": 8,
+                "weight": 30
+            }
+        ]
+    },
+    {
+        "id": 1761151421,
+        "title": "eeee",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-22 09:00",
+        "end": "2025-10-22 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 70,
+                "multiplier": 1.2,
+                "au": 20.16
+            }
+        ]
+    },
+    {
+        "id": 1761152598,
+        "title": "ee",
+        "type": "Track",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-22 09:00",
+        "end": "2025-10-22 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "distance": 100,
+                "effort": 1.3,
+                "session_factor": 1.4,
+                "rest_ratio": 1.5,
+                "sets": 3,
+                "reps": 8,
+                "au": 1092
+            }
+        ]
+    },
+    {
+        "id": 1761152619,
+        "title": "555",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-22 09:00",
+        "end": "2025-10-22 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 70,
+                "multiplier": 1.3,
+                "au": 21.84
+            }
+        ]
+    },
+    {
+        "id": 1761153695,
+        "title": "55454",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-30 09:00",
+        "end": "2025-10-30 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 70,
+                "multiplier": 1,
+                "au": 16.8
+            }
+        ]
+    },
+    {
+        "id": 1761313471,
+        "title": "54654",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-24 09:00",
+        "end": "2025-10-24 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 70,
+                "multiplier": 1,
+                "au": 16.8
+            },
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 70,
+                "multiplier": 1,
+                "au": 16.8
+            },
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 70,
+                "multiplier": 1,
+                "au": 16.8
+            },
+            {
+                "name": "Mrtvý tah",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 70,
+                "multiplier": 1,
+                "au": 16.8
+            },
+            {
+                "name": "Mrtvý tah",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 706,
+                "multiplier": 1,
+                "au": 169.44
+            }
+        ]
+    },
+    {
+        "id": 1761316022,
+        "title": "42",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-24 09:00",
+        "end": "2025-10-24 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 70,
+                "multiplier": 1,
+                "au": 16.8
+            }
+        ]
+    },
+    {
+        "id": 1761316029,
+        "title": "42",
+        "type": "Track",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-24 09:00",
+        "end": "2025-10-24 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "distance": 100,
+                "effort": 1,
+                "session_factor": 1,
+                "rest_ratio": 1,
+                "sets": 3,
+                "reps": 8,
+                "au": 400
+            }
+        ]
+    },
+    {
+        "id": 1761316041,
+        "title": "424",
+        "type": "Sprint",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-24 09:00",
+        "end": "2025-10-24 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "distance": 100,
+                "effort": 1,
+                "session_factor": 1,
+                "recovery_ratio": 1,
+                "gear_ratio": 1,
+                "sets": 3,
+                "reps": 8,
+                "au": 600
+            }
+        ]
+    },
+    {
+        "id": 1761746500,
+        "title": "§ů",
+        "type": "Gym",
+        "coach": "",
+        "location": "",
+        "start": "2025-10-29 09:00",
+        "end": "2025-10-29 10:00",
+        "notes": "",
+        "exercises": [
+            {
+                "name": "Dřepy s činkou",
+                "sets": 3,
+                "reps": 8,
+                "pct1rm": 70,
+                "multiplier": 1,
+                "au": 16.8
+            }
+        ]
+    }
+]

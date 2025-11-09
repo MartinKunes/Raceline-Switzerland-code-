@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1760637572,
+        "date": "2025-10-16",
+        "sleep": 7.4,
+        "mood": 7,
+        "soreness": 7,
+        "resting_hr": 22,
+        "hrv": 45,
+        "fatigue": 7,
+        "created": "2025-10-16 19:59"
+    },
+    {
+        "id": 1760650786,
+        "date": "2025-10-16",
+        "sleep": 7.4,
+        "mood": 8,
+        "soreness": 7,
+        "resting_hr": 233,
+        "hrv": 445,
+        "fatigue": 9,
+        "created": "2025-10-16 23:39"
+    },
+    {
+        "id": 1760987028,
+        "date": "2025-10-20",
+        "sleep": null,
+        "mood": 7,
+        "soreness": 7,
+        "resting_hr": 120,
+        "hrv": 20,
+        "fatigue": 7,
+        "created": "2025-10-20 21:03"
+    },
+    {
+        "id": 1760987039,
+        "date": "2025-10-20",
+        "sleep": null,
+        "mood": 6,
+        "soreness": 8,
+        "resting_hr": 111,
+        "hrv": 111,
+        "fatigue": 8,
+        "created": "2025-10-20 21:03"
+    }
+]
