@@ -8,8 +8,8 @@ To do list:
 
    ------
    Next steps:
-   1. do the template by users
-   2. save data of the athletes (1%RM?)
+   1. save data of the athletes (1%RM?)
+   2. do the template by users
    3. Update the database
    4. Edit the code, so it connects to the database (try it with xampp)
    5. Check for 3s (keys, redundant data and duplicity)
